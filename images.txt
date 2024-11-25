@@ -1,3 +1,1 @@
-nginx
-xhofe/alist:latest
-6053537/portainer-ce
+weejewel/wg-easy
